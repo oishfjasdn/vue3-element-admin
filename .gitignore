@@ -1,11 +1,10 @@
 node_modules
 .DS_Store
 dist
-dist.rar
 dist-ssr
 *.local
 .history
-
+hello
 # Editor directories and files
 .idea
 *.suo
